@@ -18,6 +18,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Thilo Michael",
     author_email="uhlomuhlo@gmail.com",
+    url="https://github.com/Uhlo/mpsync",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
